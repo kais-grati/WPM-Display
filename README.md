@@ -22,7 +22,7 @@ Unlike typing test websites that measure speed in controlled, idealized environm
 1. **Clone the repository**
    ```bash
    git clone https://github.com/kais-grati/WPM-Display
-   cd wpm-display
+   cd WPM-Display
    ```
 
 2. **Create a virtual environment**
