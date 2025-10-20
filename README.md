@@ -21,7 +21,7 @@ Unlike typing test websites that measure speed in controlled, idealized environm
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/kais-grati/WPM-Display)
+   git clone https://github.com/kais-grati/WPM-Display
    cd wpm-display
    ```
 
